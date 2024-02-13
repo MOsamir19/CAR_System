@@ -13,7 +13,7 @@
 - LFI# ---> Increase front light
 - LFD# ---> Decrease front light                                                                     
 - LBI# ---> Increase back light
--  LBD# ---> Decrease back light      
+- LBD# ---> Decrease back light      
 
 ---------------------------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@
 - D2CLOSE# ---> DOOR 2 CLOSE                                                                                                                                                           
 - D3OPEN# ---> DOOR 3 OPEN                                                                             
  - D3CLOSE# ---> DOOR 3 CLOSE                                                                                                                                                            
-- D4OPEN# ---> DOOR 4 OPEN                                                                             
+- D4OPEN#  ---> DOOR 4 OPEN                                                                             
 - D4CLOSE# ---> DOOR 4 CLOSE                                                                                  
 
 ---------------------------------------------------------------------------------------------
