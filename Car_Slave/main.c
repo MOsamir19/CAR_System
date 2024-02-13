@@ -98,7 +98,7 @@ int main()
 			{
 				/*string check*/
 				error =Select_Door(arr[1] ) ;
-				M_TIMER1_voidPwm1Stop();
+				
 			}
 
 			else if (arr[0]=='L')/*Light check*/
